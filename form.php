@@ -9,18 +9,10 @@ background-color:black;
 color:white;
 }
 </style>
-<body>
+<body> 
  <form action="insert.php" method="POST">
 <center>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>  
+<br><br><br><br><br><br><br><br><br>  
   <table>
    <tr>
     <td>NAME:</td>
